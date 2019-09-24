@@ -1,0 +1,4 @@
+# Ignore local configuration (local.json)
+# This allows devs to override defaults without changing
+# the settings in git.
+local*

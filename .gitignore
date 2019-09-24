@@ -59,3 +59,22 @@ typings/
 
 # next.js build output
 .next
+
+# IDE settings
+.vscode/
+*.iml
+*.iws
+*.ipr
+.idea/
+.idea_modules/
+out/
+.settings/
+.classpath
+.project
+*.sqlite3
+
+# OS
+.DS_Store
+
+# Build output.
+build/
