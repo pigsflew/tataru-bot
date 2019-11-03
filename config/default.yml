@@ -1,6 +1,0 @@
-# Fill empty values in a local.yml file
-discord:
-    secret:
-bot:
-    owner:
-    prefix: dev~

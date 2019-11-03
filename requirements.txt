@@ -1,0 +1,6 @@
+discord.py
+psutil
+asyncio
+timeago
+yarl<1.2
+pytz
